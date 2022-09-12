@@ -1,4 +1,4 @@
-package lesson2.Animal;
+package PrikoliPKS.Animals;
 
 public class Animal {
     String food;
