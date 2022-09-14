@@ -9,11 +9,11 @@ public class Horse extends Animal {
 
     @Override
     public void makeNoise() {
-        System.out.println("just noise");
+        System.out.println("ржет (угарает)");
     }
 
     @Override
     public void eat() {
-        System.out.println("Horse eat");
+        System.out.println("Ест");
     }
 }
