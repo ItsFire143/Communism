@@ -9,11 +9,11 @@ public class Cat extends Animal {
 
     @Override
     public void makeNoise() {
-        System.out.println("Meow");
+        System.out.println("Мяукает");
     }
 
     @Override
     public void eat() {
-        System.out.println("Cat eat");
+        System.out.println("Ест");
     }
 }
