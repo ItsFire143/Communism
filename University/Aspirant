@@ -6,19 +6,6 @@ public class Aspirant extends Student {
     public Aspirant(String firstName, String lastName, String group, double averageMark, String work) {
         super(firstName, lastName, group, averageMark);
         this.work = work;
-
-    }
-
-    public static void main(String[] args) {
-        Student student = new Student("Ivan", "Ivanov",
-                "PKS", 4.5 );
-        Aspirant aspirant = new Aspirant("Petr", "Petrov",
-                "PKS", 3.4, "Work");
-
-        Student[] students = { student, aspirant,};
-
-        for (Student s : students)
-            System.out.println(s.getSholarship());
     }
     public int getScholarship() {
         return averageMark == 5 ? 20000 : 18000;
