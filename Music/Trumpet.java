@@ -1,5 +1,5 @@
 package Music;
-
+//Пионерский горн
 public class Trumpet implements Instrument{
     public int diameter;
 

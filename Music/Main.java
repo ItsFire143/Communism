@@ -1,5 +1,5 @@
 package Music;
-
+//Министерство культуры СССР
 public class Main {
     public static void main(String[] args) {
         Instrument[] instruments = new Instrument[5];

@@ -1,5 +1,5 @@
 package Music;
-
+//Маршевые барабаны
 public class Drum implements Instrument {
     public int size;
 

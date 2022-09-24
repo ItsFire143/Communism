@@ -1,5 +1,5 @@
 package University;
-
+//Советские аспиранты
 public class Aspirant extends Student{
     String work;
 

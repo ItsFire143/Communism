@@ -1,5 +1,5 @@
 package University;
-
+//Советские Студенты
 public class Student {
     String firstName, lastName, group;
     double averageMark;

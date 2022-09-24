@@ -1,5 +1,5 @@
 package Animals;
-
+//Раскулаченный скот
 public class Animal {
     String food;
     String location;

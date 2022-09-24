@@ -1,5 +1,5 @@
 package Music;
-
+//Егор Летов Запрещён
 public class Guitar implements Instrument{
 
     public int stringCount;

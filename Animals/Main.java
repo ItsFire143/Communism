@@ -1,5 +1,5 @@
 package Animals;
-
+//Агрокомитет СССР
 public class Main {
     public static void main(String[] msi) {
         Vet vet = new Vet();

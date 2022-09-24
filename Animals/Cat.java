@@ -1,5 +1,5 @@
 package Animals;
-
+//Ленинградские кошки
 public class Cat extends Animal{
     String name;
     public Cat(String name, String food, String location) {

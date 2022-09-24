@@ -1,5 +1,5 @@
 package Kepich;
-
+//Томатный натурпродукт по ГОСТу
 public class Main {
     public static void main(String[] args) {
         String a = "Ketchup";

@@ -1,5 +1,5 @@
 package Animals;
-
+//Восковая конница
 import javax.swing.*;
 
 public class Horse extends Animal{
