@@ -1,3 +1,5 @@
+package University;
+
 public class Student {
     String firstName, lastName, group;
     double averageMark;
@@ -8,7 +10,7 @@ public class Student {
         this.group = group;
         this.averageMark = averageMark;
     }
-    int getSholarship() {
+    int getScholarship() {
         return averageMark == 5 ? 10000 : 8000;
     }
     public Student() {

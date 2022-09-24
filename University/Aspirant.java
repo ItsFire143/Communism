@@ -1,6 +1,6 @@
-package PrikoliPKS.University;
-public class Aspirant extends Student {
+package University;
 
+public class Aspirant extends Student{
     String work;
 
     public Aspirant(String firstName, String lastName, String group, double averageMark, String work) {

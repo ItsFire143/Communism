@@ -1,15 +1,15 @@
-package PrikoliPKS.Animals;
+package Animals;
 
-public class Horse extends Animal {
+public class Cat extends Animal{
     String name;
-    public Horse(String name, String food, String location) {
+    public Cat(String name, String food, String location) {
         super(food, location);
         this.name = name;
     }
 
     @Override
     public void makeNoise() {
-        System.out.println("ржет (угарает)");
+        System.out.println("Мяукает");
     }
 
     @Override

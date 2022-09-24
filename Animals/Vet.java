@@ -1,4 +1,4 @@
-package PrikoliPKS.Animals;
+package Animals;
 
 public class Vet {
     void treatAnimal(Animal animal) {

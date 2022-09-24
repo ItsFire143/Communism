@@ -1,5 +1,6 @@
+package University;
+
 public class Main {
-    
     public static void main(String[] args) {
         Student student = new Student("Ivan", "Ivanov",
                 "PKS", 4.5 );
@@ -9,6 +10,6 @@ public class Main {
         Student[] students = { student, aspirant,};
 
         for (Student s : students)
-            System.out.println(s.getSholarship());
+            System.out.println(s.getScholarship());
     }
 }

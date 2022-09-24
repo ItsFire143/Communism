@@ -1,3 +1,5 @@
+package Animals;
+
 public class Main {
     public static void main(String[] msi) {
         Vet vet = new Vet();

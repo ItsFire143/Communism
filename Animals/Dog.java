@@ -1,6 +1,6 @@
-package PrikoliPKS.Animals;
+package Animals;
 
-public class Dog extends Animal {
+public class Dog extends Animal{
     String name;
     public Dog(String name, String food, String location) {
         super(food, location);
