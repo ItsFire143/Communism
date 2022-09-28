@@ -1,4 +1,4 @@
-package University;
+package University_1;
 //Министерство образования СССР
 public class Main {
     public static void main(String[] args) {

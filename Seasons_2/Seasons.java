@@ -1,4 +1,4 @@
-package Seasons;
+package Seasons_2;
 
 public enum Seasons {
     winter("-20"),

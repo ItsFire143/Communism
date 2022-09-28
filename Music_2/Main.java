@@ -1,4 +1,4 @@
-package Music;
+package Music_2;
 //Министерство культуры СССР
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Music;
+package Music_2;
 //Егор Летов Запрещён
 public class Guitar implements Instrument{
 

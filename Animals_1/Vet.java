@@ -1,4 +1,4 @@
-package Animals;
+package Animals_1;
 //Советские ветеренары
 public class Vet {
     void treatAnimal(Animal animal) {

@@ -1,4 +1,4 @@
-package Seasons;
+package Seasons_2;
 public class Main {
     static Seasons season = Seasons.spring;
     public static void main(String[] args) {

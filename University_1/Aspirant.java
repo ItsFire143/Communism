@@ -1,4 +1,4 @@
-package University;
+package University_1;
 //Советские аспиранты
 public class Aspirant extends Student{
     String work;

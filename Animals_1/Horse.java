@@ -1,15 +1,16 @@
-package Animals;
-//Ленинградские кошки
-public class Cat extends Animal{
+package Animals_1;
+//Восковая конница
+
+public class Horse extends Animal{
     String name;
-    public Cat(String name, String food, String location) {
+    public Horse(String name, String food, String location) {
         super(food, location);
         this.name = name;
     }
 
     @Override
     public void makeNoise() {
-        System.out.println("Мяукает");
+        System.out.println("ржет (угарает)");
     }
 
     @Override

@@ -1,4 +1,4 @@
-package Animals;
+package Animals_1;
 //Агрокомитет СССР
 public class Main {
     public static void main(String[] msi) {

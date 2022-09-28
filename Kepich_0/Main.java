@@ -1,4 +1,4 @@
-package Kepich;
+package Kepich_0;
 //Томатный натурпродукт по ГОСТу
 public class Main {
     public static void main(String[] args) {

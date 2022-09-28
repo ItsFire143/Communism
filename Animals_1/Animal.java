@@ -1,4 +1,4 @@
-package Animals;
+package Animals_1;
 //Раскулаченный скот
 public class Animal {
     String food;

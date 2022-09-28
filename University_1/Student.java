@@ -1,4 +1,4 @@
-package University;
+package University_1;
 //Советские Студенты
 public class Student {
     String firstName, lastName, group;
