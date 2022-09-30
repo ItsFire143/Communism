@@ -1,7 +1,7 @@
 package Animals_1;
 //Агрокомитет СССР
 public class Main {
-    public static void main(String[] msi) {
+    public static void main(String[] args) {
         Vet vet = new Vet();
         Animal[] animals = new Animal[3];
         animals[0] = new Dog("Собака", "Собачий корм", "Вольер #1");
